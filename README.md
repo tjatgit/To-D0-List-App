@@ -34,5 +34,5 @@ This is a simple desktop To-Do List application built using Python's Tkinter lib
 
 ## Screenshots
 
-![to do list app screenshot][(screenshots/screenshot-1.png)]
-![to do list app screenshot][(screenshots/screenshot-2.png)]
+![to do list app screenshot](screenshots/screenshot-1.png)
+![to do list app screenshot](screenshots/screenshot-2.png)
